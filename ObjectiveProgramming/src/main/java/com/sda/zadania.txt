@@ -1,0 +1,15 @@
+1. Rozwiń przykład 2. Utwórz dodatkową Klasę ProgramistaSenior
+niech ta klasa dziedziczy po klasie Programista. Dodaj do tej klasy jakieś wyróżniające się pole.
+Następnie utwórz Tablicę z 4 pracownikami, niech będą to pracownicy różnego typu, dodaj tablicę
+do nowo utworzonego menadżera - po czym wyświetl jego imię i nazwisko, a także imiona i nazwiska
+podległych mu pracowników wraz z ich stanowiskami.
+
+2. Stwórz klasę abstrakcyjną o nazwie Samolot, wraz z metodą getNazwa(),
+zwracającą wartość Stringa z nazwą samolotu. Stwórz 3 różne klasy anonimowe od tej klasy
+abstrakcyjnej i wyświetl nazwy tych samolotów
+
+3.Napisz Hierarchię klas:
+Stwórz 3 klasy odpowiadające figurom geometrycznym - Koło, Kwadrat i Prostokąt,
+Upewnij się że każda z tych figur zawiera metody do obliczania ich obwodów i pól powierzchni.
+Niech klasy przechowują odpowiednie pola, które będą potrzebne do tych obliczeń.
+wykorzystaj dziedziczenie i interfejsy, zastosuj enkapsulacje.

@@ -1,0 +1,9 @@
+1. Utwórz kolekcję liczb: 4,7,8,3,4,8,7,89,12,1,1,5 i wyświetl te liczby bez powtórzeń
+2. Utwórz klasę Pracownik (imie, nazwisko, stanowisko). Dodaj 5 pracowników do zbioru. Usuń z niego dwóch pierwszych
+dodanych pracowników. Wyświetl zawartość zbioru.
+3. Zmodyfikuj sortowanie filmów w taki sposób, aby były sortowane w odwrotnej kolejności
+4. Poszukaj informacji o interfejsie Comparator. Zmień program filmy tak, aby można było je sortować zarówno po
+tytule jak i po roku produkcji.
+5. Wczytuj (Scanner) od użytkownika liczby tak długo, aż wpisze on -1. Wypisz najmniejszą z nich.
+Liczby zapamiętuj na liście.
+6. Napisz program który sprawdzi czy dwa podane słowa to anagram.
