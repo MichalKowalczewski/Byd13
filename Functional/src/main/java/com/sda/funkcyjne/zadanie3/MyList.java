@@ -1,4 +1,4 @@
-package com.sda.zadanie3;
+package com.sda.funkcyjne.zadanie3;
 
 import java.util.ArrayList;
 import java.util.Objects;

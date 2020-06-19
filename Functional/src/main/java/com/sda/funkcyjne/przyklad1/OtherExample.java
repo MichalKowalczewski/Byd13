@@ -1,4 +1,4 @@
-package com.sda.przyklad1;
+package com.sda.funkcyjne.przyklad1;
 
 
 //@FunctionalInterface - nie skompiluje się, ponieważ mamy więcej niż 1 metodę abstrakcyjną

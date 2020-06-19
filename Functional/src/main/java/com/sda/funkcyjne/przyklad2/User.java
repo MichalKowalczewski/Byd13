@@ -1,4 +1,4 @@
-package com.sda.przyklad2;
+package com.sda.funkcyjne.przyklad2;
 
 public class User {
     private String firstName;

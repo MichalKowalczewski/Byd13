@@ -1,4 +1,4 @@
-package com.sda.przyklad1;
+package com.sda.funkcyjne.przyklad1;
 
 @FunctionalInterface
 public interface Example {

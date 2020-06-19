@@ -1,4 +1,4 @@
-package com.sda.przyklad2;
+package com.sda.funkcyjne.przyklad2;
 
 import java.util.function.Supplier;
 

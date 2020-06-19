@@ -1,6 +1,4 @@
-package com.sda.zadanie3;
-
-import java.util.List;
+package com.sda.funkcyjne.zadanie3;
 
 public class Main {
     public static void main(String[] args) {

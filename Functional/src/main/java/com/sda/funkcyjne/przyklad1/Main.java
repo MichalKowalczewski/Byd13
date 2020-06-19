@@ -1,10 +1,4 @@
-package com.sda.przyklad1;
-
-import java.io.File;
-import java.sql.Date;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.function.Consumer;
+package com.sda.funkcyjne.przyklad1;
 
 public class Main {
     public static void main(String[] args) {

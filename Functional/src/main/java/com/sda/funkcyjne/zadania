@@ -1,7 +1,7 @@
-Napisz interfejs funkcyjny - a następnie stwórz klasę która będzie miała 2 metody, różniące się nazwą i ilością argumentów.
+1. Napisz interfejs funkcyjny - a następnie stwórz klasę która będzie miała 2 metody, różniące się nazwą i ilością argumentów.
 Zaimplementuj swój interfejs funkcyjny wykorzystując referencję metody i tą nowo utworzoną klasę. Spróbuj też przeciążyć metody tej nowej klasy i sprawdź
 w jaki sposób będą działać
 
-3. Napisz własną implementację ArrayList - klasę MyList -
+2. Napisz własną implementację ArrayList - klasę MyList -
 która będzie zawierać metodę forEachBackwards() - wzoruj się na implementacji metody forEach() z interfejsu Iterable - jednakże ty iteruj od końca listy
 do jej początku.
