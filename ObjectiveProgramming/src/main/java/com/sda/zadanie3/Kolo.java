@@ -23,6 +23,6 @@ public class Kolo implements Figura {
 
     @Override
     public double obliczObwod() {
-        return Math.pow(Math.PI*r,2);
+        return Math.PI*Math.pow(r,2);
     }
 }
