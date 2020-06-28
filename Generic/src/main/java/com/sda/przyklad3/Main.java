@@ -15,5 +15,9 @@ public class Main {
         System.out.println("Suma obwodow ksztaltow: " + boxForShapes.sumOfCircuits());
         System.out.println("Suma obwodow kwadratow: " + boxForSquares.sumOfCircuits());
         System.out.println("Suma obwodow okregow: " + boxForCircles.sumOfCircuits());
+
+
+
+
    }
 }

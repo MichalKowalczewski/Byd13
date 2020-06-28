@@ -33,7 +33,7 @@ public class BazaFilmow {
         }
     }
 
-    Callable
+
 /*
     public void usunFilm(String tytul) {
         List<Film> filmy = wczytajFilmy();

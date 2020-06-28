@@ -1,0 +1,11 @@
+1. Napisz program, wypisujący na ekranie losową liczbę z 20 wątków,
+wypisz też nazwę tego wątku. Użyj interfejsu Runnable
+2. Napisz program, wypisujący listę 50 losowych liczb.
+Użyj interfejsu callable
+3. Napisz program przeciaganie liny, w ktorym dwa watki beda miedzy soba
+przeciagaly line (jeden w prawo drugi w lewo) o losową wartość(np: od 0 do 3), której reprezentacją może być np(:
+niech przeciganie zaczyna sie od 20, jesli zmienna zejdzie do 0 to wygrywa jedna strona a jesli do 40 to druga.
+Kiedy lina zostanie przeciągnięta w prawo, zwiększy się liczba gwiazdek, kiedy w lewo zmniejszy się.
+
+
+https://stackoverflow.com/questions/6045648/which-java-collections-are-synchronizedthread-safe-which-are-not
