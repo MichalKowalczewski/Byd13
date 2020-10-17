@@ -1,2 +1,4 @@
-Napisz typ numeryczny PoryRoku - przechowuj w nim wszystkie pory roku, niech każdy typ ma także pola z wartościami
+Napisz typ numeryczny PoryRoku
+- przechowuj w nim wszystkie pory roku,
+ niech każdy typ ma także pola z wartościami
 dla średniej temperatury oraz krótki opis pory roku.

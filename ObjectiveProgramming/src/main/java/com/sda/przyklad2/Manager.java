@@ -1,10 +1,10 @@
 package com.sda.przyklad2;
 
-public class Menager extends Pracownik {
+public class Manager extends Pracownik {
 
     private Pracownik[] podlegliPracownicy;
 
-    public Menager(String imie, String nazwisko, int wiek, int pensja) {
+    public Manager(String imie, String nazwisko, int wiek, int pensja) {
         super(imie, nazwisko, wiek, pensja);
     }
 
